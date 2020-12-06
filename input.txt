@@ -1,0 +1,11 @@
+IDA*
+with time
+with open
+4x4
+Black: 
+Red: 
+1,6,4,10
+3,2,14,_
+9,7,11,5
+8,12,13,15
+
