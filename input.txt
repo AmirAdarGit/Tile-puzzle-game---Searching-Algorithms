@@ -1,6 +1,6 @@
 IDA*
 with time
-with open
+no open
 4x4
 Black: 
 Red: 
