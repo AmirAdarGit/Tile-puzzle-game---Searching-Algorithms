@@ -1,6 +1,6 @@
-# Tile-puzzle-game---Searching-Algorithms
+# The tile puzzle game: using serching algorithms<br/>
 
-The tile puzzle game:<br/>
+
 
 <img src="pictures/solve-puzzel.jpg">
 
