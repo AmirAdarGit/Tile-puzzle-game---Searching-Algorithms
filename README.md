@@ -2,7 +2,7 @@
 
 The tile puzzle game:<br/>
 
-<image src
+<img src="pictures/solve-puzzel.jpg">
 
 
 
