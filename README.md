@@ -10,7 +10,7 @@ Implementation of "Tail Puzzle" game using 5 searching algorithms (BFS, DFID, A*
 
 -----------------------
 For each one of the Algorithms:<br />
-The solution is look for the optimum one <==> If there is any solution <br />
+Find the optimum solution <==> If there is any solution (one or few)<br />
 
 -----------------------
 
@@ -33,19 +33,19 @@ Red:
 
 -----------------------
 
-IDA*           -----> Here you tipe the name of the requier algorithm - Bfs, Dfid, A*, IDA*, DfbNb.
+IDA*           -----> Here you tipe the name of the requier algorithm - BFS, DFID, A*, IDA*, DFBnB.
 
 with time      -----> If you want to see the runtime of the algorithm until it finds the solution write down "with time" otherwise leave "no time".
 
-no open        -----> If it is registered in the input file is "no open" all the output will be written to the output.txt file and nothing will be printed in the console.
+no open        -----> If you write in the input file is "no open" all the output will be written to the output.txt file and nothing will be printed in the console.
                       If "with open" is written, the algorithm will run on the console, in each row you will see the "open list" of the search graph, until the solution is                           found. 
                       
 3x4            -----> In this row you enter the size of the board (NxM)
 
-Black:         -----> (Not necessary) Here you can set the black cells, the ones that will not be able to move during the game.
+Black:         -----> (Not necessary) Here you can set the "black collor" cells, those will not be able to move during the game.
 
 Red:           -----> (Not necessary) Here you can set the red cells when moving this cell the "cost" of moving will be 30 points.
-                      For all the cells that not selected as red or black, will set to the green collor automatically, And for each move of green cell will co
+                      For all the cells that not selected as 'red' or 'black', will set to the 'green' collor automatically, And for each move of green cell will cost 1 point.
                       
     
     -----> Example of input board.
