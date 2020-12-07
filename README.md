@@ -1,5 +1,11 @@
 # Tile-puzzle-game---Searching-Algorithms
 
+The tile puzzle game:<br/>
+
+<image src
+
+
+
 Implementation of "Tail Puzzle" game using 5 searching algorithms (BFS, DFID, A*, IDA*, DFBnB).<br />
 
 -----------------------
