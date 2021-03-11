@@ -8,7 +8,7 @@
 
 Implementation of "Tail Puzzle" game using 5 searching algorithms (BFS, DFID, A*, IDA*, DFBnB).<br />
 
-Referance to short explenation of the algorithms:<br />
+Referance to explenation of the algorithms:<br />
 
 BFS - https://en.wikipedia.org/wiki/Breadth-first_search <br />
 DFID - https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search <br />
