@@ -8,6 +8,14 @@
 
 Implementation of "Tail Puzzle" game using 5 searching algorithms (BFS, DFID, A*, IDA*, DFBnB).<br />
 
+Referance to short explenation of the algorithms:<br />
+
+BFS - https://en.wikipedia.org/wiki/Breadth-first_search <br />
+DFID - https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search <br />
+A* - https://en.wikipedia.org/wiki/A*_search_algorithm <br />
+IDA* - https://en.wikipedia.org/wiki/Iterative_deepening_A*<br />
+DFBnB - https://en.wikipedia.org/wiki/Branch_and_bound<br />
+
 -----------------------
 For each one of the Algorithms:<br />
 Find the optimum solution <==> If there is any solution (one or few)<br />
@@ -91,13 +99,6 @@ so now we can cheack the resulte from the algorithm.<br />
 
 Best web for getting a shuffle board and cheak the correct results:<br />
 https://appzaza.com/tile-slide-game<br />
-
-
-
-
-
-
-
 
 
 
